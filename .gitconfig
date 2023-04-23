@@ -1,0 +1,15 @@
+[user]
+	name = Kevin Wong
+	email = kevin@kevinwong.co
+	singingkey = <redacted>
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+[alias]
+	s = status -sb
+	d = diff
+	a = add -A
+	b = branch
+	co = checkout
+	c = commit -m
